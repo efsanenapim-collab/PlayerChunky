@@ -1,0 +1,6 @@
+name: LogoutItemCleanup
+version: '1.0.0'
+main: com.example.logoutitemcleanup.LogoutItemCleanup
+description: Removes a configurable percentage of dropped items around a player's logout location.
+api-version: '26.3'
+author: ChatGPT
